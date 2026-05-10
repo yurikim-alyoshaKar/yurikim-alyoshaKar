@@ -1,4 +1,4 @@
-# Min Yuri Kim (Min Soo Kim) 👋
+# Min Yuri Kim (Min Soo Kim) 
 
 ## About Me
 I'm a Software Engineer working on ADAS application software. I am passionate about sensor systems, robotics, physical AI.
